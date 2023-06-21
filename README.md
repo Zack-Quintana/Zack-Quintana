@@ -1,6 +1,4 @@
-Hi! My name's Zachary, and I'm a Data Scientist interested in Neuroscience, Quantum Computing, Cyber Security and Astronautics.
-
-I am skilled in Python, SQL, Machine Learning / Predictive Modeling, Data Visualization, Cloud Hosting and API's.
+Hi! My name's Zachary, and I'm a Data Scientist interested in anything tech, from Genetic Engineering to Neuroscience, Quantum Computing, Cyber Security and Astronautics.
 
 LinkedIn: https://www.linkedin.com/in/zackquintana
 
